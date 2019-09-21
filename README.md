@@ -1,3 +1,3 @@
 # Escher in Elm
 
-Repo for my live-coding session at NewCrafts 2019.
+Repo for my live-coding session at LambdAle 2019.
